@@ -57,47 +57,47 @@ body{
 .topnav a:hover {
     background-color: #ddd;
     color: rgb(0, 169, 221);
-  }
+}
 
-  .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-  }
-
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+    
 .fa:hover {
-    opacity: 0.7;
-  }
- 
+  opacity: 0.7;
+}
+     
 .fa-twitter {
-    background: #3B5998;
-    color: white;
-  }
+  background: #3B5998;
+  color: white;
+}
+    
+.fa-instagram {
+  background: #ec8bff;
+  color: white;
+}
+    
+.fa-linkedin {
+  background: #3B5998;
+  color: white;
+}
+    
+footer{
+  text-align: center;
+  background-color: #333;
+  margin-top: 34.5px;
+  position: relative;
+}
 
-  .fa-instagram {
-    background: #ec8bff;
-    color: white;
-  }
-
-  .fa-linkedin {
-    background: #3B5998;
-    color: white;
-  }
-
-  footer{
-      text-align: center;
-      background-color: #333;
-      margin: 0;
-      position: relative;
-  }
-
-  .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 30px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 20%;
-  }
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 20%;
+}

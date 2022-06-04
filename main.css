@@ -10,11 +10,12 @@
 body{
     margin: 0;
     background-image: url(./images/portfolio.png);
-    background-position: center;
+    position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-
+  
     min-height: auto;
+    overflow-x: hidden;
 }
 
 .bg-img{
@@ -112,44 +113,44 @@ h1{
 }
 
 .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-  }
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+}
 
 .fa:hover {
-    opacity: 0.7;
-  }
+opacity: 0.7;
+}
  
 .fa-twitter {
-    background: #3B5998;
-    color: white;
-  }
+background: #3B5998;
+color: white;
+}
 
-  .fa-instagram {
-    background: #ec8bff;
-    color: white;
-  }
+.fa-instagram {
+background: #ec8bff;
+color: white;
+}
 
-  .fa-linkedin {
-    background: #3B5998;
-    color: white;
-  }
+.fa-linkedin {
+background: #3B5998;
+color: white;
+}
 
-  footer{
-      text-align: center;
-      background-color: #333;
-      margin: 0;
-      position: relative;
-  }
-
-  .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 30px;
+footer{
     text-align: center;
-    text-decoration: none;
-    border-radius: 20%;
-  }
+    background-color: #333;
+    margin-top: 34.5px;
+    position: relative;
+}
+
+.fa {
+padding: 20px;
+font-size: 30px;
+width: 30px;
+text-align: center;
+text-decoration: none;
+border-radius: 20%;
+}
